@@ -1,8 +1,24 @@
-#Metro Route Optimizer-Dijkstra-algorithm
+# Metro Route Optimizer
 
-INTRODUCTION: This C++ code implements Dijkstra's algorithm to find the shortest path (minimum number of stations) in a metro system with 56 stations. It initializes a graph using an adjacency matrix, where each station is connected to its adjacent stations. The user selects a source station, and the algorithm calculates the shortest distance from this source station to all other stations using a priority queue. Finally, it prints the minimum number of stations required to reach every other station from the source.
+## Overview
+
+Metro Route Optimizer is a C++ project designed to find the shortest path between metro stations using Dijkstra's algorithm. It helps users determine the minimum number of stations they need to travel through to reach their destination from a chosen source station. This project is ideal for those interested in algorithms, graph theory, and public transportation systems.
+
+## Features
+
+- **Shortest Path Calculation:** Uses Dijkstra's algorithm to calculate the shortest path between metro stations.
+- **User-Friendly Interface:** Simple command-line interface to input the source station and display results.
+- **Comprehensive Station List:** Supports a network of 56 metro stations with pre-defined connections.
+- **Efficient Pathfinding:** Utilizes a priority queue to ensure efficient and accurate pathfinding.
+
 
 COMPLEXITY: The time complexity of Dijkstras algorithm is O(V^2),where V is the number of vertices in the graph.The space complexity of Dijkstras algorithm is O(V)
+## Stations
+
+The project includes a predefined list of 56 metro stations:
+
+
+
 
  STATION CODES
  
