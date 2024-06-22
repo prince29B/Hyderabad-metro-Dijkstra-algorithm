@@ -81,7 +81,8 @@ The project includes a predefined list of 56 metro stations:
         55                                             Raidurg
 
 
-        ## Installation and Setup
+      
+## Installation and Setup
 
 ### Prerequisites
 
@@ -94,4 +95,3 @@ The project includes a predefined list of 56 metro stations:
 
    ```bash
    git clone https://github.com/your-username/metro-route-optimizer.git
-   
