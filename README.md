@@ -2,7 +2,7 @@
 
 ## Overview
 
-Metro Route Optimizer is a C++ project designed to find the shortest path between metro stations using Dijkstra's algorithm. It helps users determine the minimum number of stations they need to travel through to reach their destination from a chosen source station. This project is ideal for those interested in algorithms, graph theory, and public transportation systems.
+Metro Route Optimizer is a C++ project designed to find the shortest path between metro stations of Hyderabad using Dijkstra's algorithm. It helps users determine the minimum number of stations they need to travel through to reach their destination from a chosen source station. This project is ideal for those interested in algorithms, graph theory, and public transportation systems.
 
 ## Features
 
@@ -79,3 +79,19 @@ The project includes a predefined list of 56 metro stations:
         53                                             Dugamcheruvu
         54                                             Hitechcity
         55                                             Raidurg
+
+
+        ## Installation and Setup
+
+### Prerequisites
+
+- A C++ compiler (e.g., `g++`)
+- Git
+
+### Steps
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/metro-route-optimizer.git
+   
