@@ -1,6 +1,6 @@
 # Hyderabad-metro-Dijkstra-algorithm
 
-INTRODUCTION: This C++ code implements real time use case of Dijkstras algorithm to find the minimum number of stations from source to every destination.There are 56 metro stations in Hyderabad. Considering each station an integer value starting from 0 is assigned,when the user enters the source station Dijkstras algorithm is applied and least no of stations from the source to every other station is calculated and displayed.
+INTRODUCTION: This C++ code implements Dijkstra's algorithm to find the shortest path (minimum number of stations) in a metro system with 56 stations. It initializes a graph using an adjacency matrix, where each station is connected to its adjacent stations. The user selects a source station, and the algorithm calculates the shortest distance from this source station to all other stations using a priority queue. Finally, it prints the minimum number of stations required to reach every other station from the source.
 
 COMPLEXITY: The time complexity of Dijkstras algorithm is O(V^2),where V is the number of vertices in the graph.The space complexity of Dijkstras algorithm is O(V)
 
