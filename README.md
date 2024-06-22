@@ -1,4 +1,4 @@
-# Hyderabad-metro-Dijkstra-algorithm
+#Metro Route Optimizer-Dijkstra-algorithm
 
 INTRODUCTION: This C++ code implements Dijkstra's algorithm to find the shortest path (minimum number of stations) in a metro system with 56 stations. It initializes a graph using an adjacency matrix, where each station is connected to its adjacent stations. The user selects a source station, and the algorithm calculates the shortest distance from this source station to all other stations using a priority queue. Finally, it prints the minimum number of stations required to reach every other station from the source.
 
